@@ -11,12 +11,19 @@ provide uninterrupted power supply to the industries.
                                                   
 
 1.**** What is SCADA?
+
  1.1 Introduction
+ 
  1.2 ADVANTAGE OF SCADA SYSTEM
+ 
  1.3 USES OF THE SCADA
+ 
  1.4 Objectives of SCADA
+ 
  1.5 COMPONENTS
+ 
  1.6 ARCHITECHTUR
+ 
   1.6.1 Hardware Architecture
   1.6.2 Software Architecture
  1.7 FUNCTIONALITIES OF SCADA
