@@ -11,9 +11,7 @@ provide uninterrupted power supply to the industries.
                                                   
 
 1.**** What is SCADA?
-
  1.1 Introduction
- 
  1.2 ADVANTAGE OF SCADA SYSTEM
  1.3 USES OF THE SCADA
  1.4 Objectives of SCADA
@@ -33,9 +31,7 @@ provide uninterrupted power supply to the industries.
   1.9.3 Network SCADA System
   
 2. **THREATS and VLUNERABILITIES**
-
  2.1 THREATS
- 
   2.1.1 Adversarial Threats to ICSs
   
  2.2 VLUNERABILITIES
