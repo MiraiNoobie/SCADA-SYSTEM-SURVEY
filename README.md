@@ -6,7 +6,9 @@ application may be a petrochemical distillation process, a water filtration syst
 pipeline compressor, or just about anything else For continuous operations we have to 
 provide uninterrupted power supply to the industries.
 
-**Contain of the surevy **
+
+                                                   **Contain of the surevy **
+                                                  
 
 1.**** What is SCADA?
 
