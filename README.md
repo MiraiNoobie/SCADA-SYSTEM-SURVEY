@@ -49,7 +49,7 @@ provide uninterrupted power supply to the industries.
   1.9.3 Network SCADA System
   
   
-2. **THREATS and VLUNERABILITIES**
+2.**THREATS and VLUNERABILITIES**
 
  2.1 THREATS
  
@@ -85,7 +85,7 @@ provide uninterrupted power supply to the industries.
    
   2.2.5 Possible Incident Scenarios
 
-3. **Security Controls**
+**3**.** **Security Controls******
 
  3.1 System-Level Security Should Be Built on a Strong Foundation
  
