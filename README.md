@@ -5,7 +5,9 @@ about a system in order to control and optimize that system is a SCADA applicati
 application may be a petrochemical distillation process, a water filtration system, a 
 pipeline compressor, or just about anything else For continuous operations we have to 
 provide uninterrupted power supply to the industries.
+
 **Contain of the surevy **
+
 1.**** What is SCADA?
  1.1 Introduction
  1.2 ADVANTAGE OF SCADA SYSTEM
