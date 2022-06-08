@@ -10,7 +10,7 @@ provide uninterrupted power supply to the industries.
                                                    **Contain of the surevy **
                                                   
 
-1.**** What is SCADA?
+**1.**** What is SCADA**
 
  1.1 Introduction
  
