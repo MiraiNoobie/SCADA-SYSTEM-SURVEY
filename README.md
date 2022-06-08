@@ -10,7 +10,7 @@ provide uninterrupted power supply to the industries.
                                                    **Contain of the surevy **
                                                   
 
-**1.**** What is SCADA**
+**1.**** **What is SCADA****
 
  1.1 Introduction
  
@@ -95,4 +95,4 @@ provide uninterrupted power supply to the industries.
  
  3.4 Technical Controls
  
-**4.** REFERENCE****
+**4.** **REFERENCE******
